@@ -1,0 +1,23 @@
+[
+    {
+        "emp_id":"001",
+        "emp_Name":"YASH",
+        "emp_Designation":"DEV",
+        "emp_photo":""
+
+    },
+    {
+        "emp_id":"002",
+        "emp_Name":"UDAY",
+        "emp_Designation":"DEV",
+        "emp_photo":""
+
+    },
+    {
+        "emp_id":"003",
+        "emp_Name":"ANAD",
+        "emp_Designation":"DEV",
+        "emp_photo":""
+
+    }
+]

@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.landingpage{
+    height: 95vh;
+}
+
+nav{
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logoblock{
+    height: 100px;
+    width: 400px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+
+.menublock{
+    height: 100px;
+    width: 400px;
+}
+
+.logoblock{
+    height: 117px;
+    width: 262px;
+    z-index: 1;
+    position: relative;
+    mix-blend-mode: darken;
+}
+.landingpage{
+  background-image: url("./resources/DE-en-20231204-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+}
+/* .logo{ */
+    /* mix-blend-mode: darken; */
+/* } */
+.signinbutton{
+    color: red;
+    border: 0cap red;
+    border-radius: 75%;
+}
+.centerdata{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
